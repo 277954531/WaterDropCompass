@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.huangshikun.waterdropcompass"
+        applicationId "com.huangshikun.waterdropcompass.sample"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
