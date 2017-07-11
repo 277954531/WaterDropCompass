@@ -122,7 +122,7 @@ bintray {
     configurations = ['archives']
     pkg {
         //这里的repo值必须要和你创建Maven仓库的时候的名字一样，我们前面创建的就是maven
-        repo = "maven"
+        repo = "WaterDropCompass"
         //发布到JCenter上的项目名字
         name = libName
         //项目描述
