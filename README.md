@@ -31,6 +31,7 @@ any view can be the container
 ``` java
 int[] colors colors = new int[]{Color.RED,Color.GREEN,Color.YELLOW};//at least three colors
 WaterDropCompassDrawable drawable = new WaterDropCompassDrawable(colors);
+(ImageView) findViewById(R.id.image).setImageDrawable(drawable);
 ```
 #### second setCurrent
 ``` java
