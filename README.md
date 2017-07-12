@@ -1,5 +1,7 @@
 # WaterDropCompass
 An Android customer drawble
+## rendering
+![Screenshot](https://github.com/277954531/WaterDropCompass/blob/master/GIF.gif)
 ## import
 ### maven
 ``` xml
