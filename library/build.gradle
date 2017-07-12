@@ -45,7 +45,7 @@ def libName = "WaterDropCompass"
 group = "com.huangshikun.waterdropcompass"
 // 版本号，//compile引用时的最后部分项目名，下次更新是只需要更改版本号即可
 version = "1.0.1"
-//上面配置后上传至JCenter后的编译路径是这样的： compile 'com.huangshikun.waterdropcompass:WaterDropCompass:1.0.1'
+//上面配置后上传至JCenter后的编译路径是这样的： compile 'com.huangshikun.waterdropcompass:library:1.0.1'
 
 //生成源文件
 task sourcesJar(type: Jar) {
