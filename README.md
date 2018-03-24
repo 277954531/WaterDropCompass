@@ -1,5 +1,6 @@
 # WaterDropCompass
 An Android customer drawble
+
 中文文档[中文地址](https://blog.csdn.net/arios171/article/details/79680891)
 ## rendering
 ![Screenshot](https://github.com/277954531/WaterDropCompass/blob/master/GIF.gif)
