@@ -1,8 +1,9 @@
 # WaterDropCompass
 An Android customer drawble
 
-文档：[CSDN](https://blog.csdn.net/arios171/article/details/79680891)
-文档：[简书](https://www.jianshu.com/p/6b051c78d660)
+文档：
+      [CSDN](https://blog.csdn.net/arios171/article/details/79680891)
+      [简书](https://www.jianshu.com/p/6b051c78d660)
 ## rendering
 ![Screenshot](https://github.com/277954531/WaterDropCompass/blob/master/GIF.gif)
 ## import
